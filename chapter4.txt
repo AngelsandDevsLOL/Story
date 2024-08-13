@@ -1,0 +1,5 @@
+remember to save after
+steps:
+1. code "name.txt"
+2. edit + SAVE THE FILE.
+3. check dir!
